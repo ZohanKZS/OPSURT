@@ -43,7 +43,6 @@ def readMethod1():
             count += 1
         print(f'Всего в файле {count} строк.')
 
-
 def readMethod2():
     with open("export.csv") as r_file:
         file_reader = csv.DictReader(r_file, delimiter = ";")
@@ -59,7 +58,6 @@ def readMethod2():
 
     # ss=['goodsid','naim','izm','ostatok','priceroz','sku','barcode']
     # print('|'+' | '.join(ss)+'|')
-
 
 def loadFileFromFTP():
 
