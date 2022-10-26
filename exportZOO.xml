@@ -1,0 +1,4021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+	<company>ZooRoyal kz</company>
+	<merchantid>15507051</merchantid>
+	<offers>
+		<offer sku="4690660004249">
+			<model>Намордник ДАРЭЛЛ нейлон.регулируемый  №1 (12 - 16 см), чёрный.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2000</price>
+		</offer>
+		<offer sku="4640004829816">
+			<model>Намордник ДАРЭЛЛ нейлон.регулируемый  №2 (15-20см), чёрный.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2200</price>
+		</offer>
+		<offer sku="4690660004256">
+			<model>Намордник ДАРЭЛЛ нейлон.регулируемый  №3 (18-24см), чёрный.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2450</price>
+		</offer>
+		<offer sku="4640004829823">
+			<model>Намордник ДАРЭЛЛ нейлон.регулируемый  №4 (20-25см), чёрный.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2500</price>
+		</offer>
+		<offer sku="4690660004263">
+			<model>Намордник ДАРЭЛЛ нейлон.регулируемый  №5 (23-31см), чёрный.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2550</price>
+		</offer>
+		<offer sku="4640004829755">
+			<model>Намордник ДАРЭЛЛ нейлон.регулируемый  №6 (26-35см), чёрный.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2700</price>
+		</offer>
+		<offer sku="2000012567964">
+			<model>Поводок брезентовый 2м.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2865</price>
+		</offer>
+		<offer sku="2000012617966">
+			<model>Поводок брезентовый 2м. (25мм)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3100</price>
+		</offer>
+		<offer sku="2000012577963">
+			<model>Поводок брезентовый 3м.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3460</price>
+		</offer>
+		<offer sku="2000012637964">
+			<model>Поводок брезентовый 3м. (25мм)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3755</price>
+		</offer>
+		<offer sku="2000012587962">
+			<model>Поводок брезентовый 5м.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>4575</price>
+		</offer>
+		<offer sku="2000012657962">
+			<model>Поводок брезентовый 5м. (25мм)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>4800</price>
+		</offer>
+		<offer sku="2000012707964">
+			<model>Поводок брезентовый усиленный 2м. (30мм)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3950</price>
+		</offer>
+		<offer sku="2000072651962">
+			<model>Поводок брезентовый усиленный 3м. (30мм)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>4940</price>
+		</offer>
+		<offer sku="2000012747960">
+			<model>Поводок брезентовый усиленный 5м. (30мм)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7000</price>
+		</offer>
+		<offer sku="4620018921416">
+			<model>Поводок капроновый КРАСНЫЙ, 5 м * 20 мм. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10975</price>
+		</offer>
+		<offer sku="2000015107969">
+			<model>Поводок цепь 2мм с кож.ручкой</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3550</price>
+		</offer>
+		<offer sku="2000015127967">
+			<model>Поводок цепь 3мм с кож.ручкой</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5050</price>
+		</offer>
+		<offer sku="4000498021927">
+			<model>Рулетка SAFARI M (5 м, 20 кг) трос, зелёный тигр. FLEXI.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>14920</price>
+		</offer>
+		<offer sku="2000077031967">
+			<model>Комплект капроновая шлейка и поводок №10</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1850</price>
+		</offer>
+		<offer sku="4690660045457">
+			<model>Комплект шлейка (ОШ 20-30 см, ОГ 30-45 см) и поводок (1,2 м), 1 см, ЗЕЛЁНЫЙ. ДАРЭЛЛ.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2050</price>
+		</offer>
+		<offer sku="4690660045495">
+			<model>Комплект шлейка (ОШ 20-30 см, ОГ 30-45 см) и поводок (1,2 м), 1 см, СЕРЫЙ. ДАРЭЛЛ.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2050</price>
+		</offer>
+		<offer sku="4690660045518">
+			<model>Комплект шлейка (ОШ 20-30 см, ОГ 30-45 см) и поводок (1,2 м), 1 см, ФИОЛЕТОВЫЙ. ДАРЭЛЛ.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2050</price>
+		</offer>
+		<offer sku="4690660045525">
+			<model>Комплект шлейка (ОШ 20-30 см, ОГ 30-45 см) и поводок (1,2 м), 1 см, ЧЁРНЫЙ. ДАРЭЛЛ.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2050</price>
+		</offer>
+		<offer sku="4607092073514">
+			<model>Cliny Паста для вывода шерсти 75мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3825</price>
+		</offer>
+		<offer sku="4607092076911">
+			<model>Cliny паста для вывода шерсти курица 30мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4607092076898">
+			<model>Cliny паста для вывода шерсти лосось 30мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4607092076904">
+			<model>Cliny паста для вывода шерсти сыр 30мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4607086630150">
+			<model>КонтрСекс NEO Для кошек и сук, таблетки для регуляции половой охоты/ 2блистера по 5таб.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4607086630136">
+			<model>КонтрСекс Neo капли для кошек и сук для регуляции половой охоты 2мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2115</price>
+		</offer>
+		<offer sku="4607092073347">
+			<model>Mr. Fresh пакеты для уборки фекалий с брелоком 40 пакетов</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2100</price>
+		</offer>
+		<offer sku="4607092073330">
+			<model>Mr.Fresh Пакеты для уборки фекалий 20шт</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>865</price>
+		</offer>
+		<offer sku="4607029074515">
+			<model>Биоразлагаемые пакеты гигиенические Айда гулять! 1 рулон, 20 пакетов.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1000</price>
+		</offer>
+		<offer sku="4607029071224">
+			<model>Пакеты гигиенические Айда гулять! 1 рулон, 20 пакетов.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>865</price>
+		</offer>
+		<offer sku="4607092073507">
+			<model>Cliny зуб/гель для кошек и собак 75 ml</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2400</price>
+		</offer>
+		<offer sku="4607092073323">
+			<model>Cliny зубная щетка+массажёр для десен</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2300</price>
+		</offer>
+		<offer sku="4630030250173">
+			<model>ANIMAL PLAY спрей зоогигенический отучение гадить для собак и кошек, 200 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1575</price>
+		</offer>
+		<offer sku="4607092076416">
+			<model>MF Expert Отучение гадить для кошек 200мл F407</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3240</price>
+		</offer>
+		<offer sku="4607092076492">
+			<model>MF Expert Отучение гадить для собак 200мл F408</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3240</price>
+		</offer>
+		<offer sku="4607092074115">
+			<model>Стоп Проблема Приучение к когтеточке 120мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1780</price>
+		</offer>
+		<offer sku="4607092073187">
+			<model>Стоп Проблема Приучение к лотку 120мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1780</price>
+		</offer>
+		<offer sku="4607092073156">
+			<model>Стоп Проблема Не царапает, не грызет 120мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1780</price>
+		</offer>
+		<offer sku="4607092073163">
+			<model>Стоп Проблема не гадит не метит 120мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2260</price>
+		</offer>
+		<offer sku="4630030251910">
+			<model>ANIMAL PLAY SWEET шампунь для собак и кошек БАНАНОВЫЙ ПАНКЕЙК, 300 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1400</price>
+		</offer>
+		<offer sku="4630030252412">
+			<model>ANIMAL PLAY SWEET шампунь для собак и кошек ВИНОГРАД И ГВОЗДИКА, 300 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1400</price>
+		</offer>
+		<offer sku="4640018342363">
+			<model>GOOD CAT шампунь для кошек и котят АБРИКОС, 250 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>950</price>
+		</offer>
+		<offer sku="4640018342516">
+			<model>GOOD CAT шампунь для кошек и котят АЛОЭ ВЕРА, 250 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>950</price>
+		</offer>
+		<offer sku="4640018342677">
+			<model>GOOD CAT шампунь для кошек и котят БАБЛ ГАМ, 250 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>950</price>
+		</offer>
+		<offer sku="4640018342370">
+			<model>GOOD DOG шампунь для собак и щенков АБРИКОС, 250 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>950</price>
+		</offer>
+		<offer sku="4640018342684">
+			<model>GOOD DOG шампунь для собак и щенков БАБЛ ГАМ, 250 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>950</price>
+		</offer>
+		<offer sku="4640018346200">
+			<model>GOOD DOG шампунь для собак и щенков ХВОЯ, 250 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>950</price>
+		</offer>
+		<offer sku="4640018342660">
+			<model>GOOD DOGCAT шампунь для кошек и собак антипаразитарный, 250 мл.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1000</price>
+		</offer>
+		<offer sku="4630055952663">
+			<model>Дешеддер большой, 45 крупных зубьев. DeLIGHT.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>14000</price>
+		</offer>
+		<offer sku="4630055952618">
+			<model>Дешеддер средний, 65 зубьев. DeLIGHT.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>15000</price>
+		</offer>
+		<offer sku="4627165060579">
+			<model>Когтерез 11.8*2см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2100</price>
+		</offer>
+		<offer sku="4627165060470">
+			<model>Когтерез 12*1.8см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4627165060449">
+			<model>Когтерез 12.3*1.8см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1700</price>
+		</offer>
+		<offer sku="4627165060555">
+			<model>Когтерез 16.5*2.5 см Алиса</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2250</price>
+		</offer>
+		<offer sku="4627165060456">
+			<model>Когтерез 8.5*1.8см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="4627165060487">
+			<model>Когтерез 8.6*1.8см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1600</price>
+		</offer>
+		<offer sku="4630055951369">
+			<model>Когтерез д/мелких животных DeLIGHT малый прямой для кошек 3903</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3500</price>
+		</offer>
+		<offer sku="4630055951376">
+			<model>Когтерез д/мелких животных DeLIGHT малый с упором</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3600</price>
+		</offer>
+		<offer sku="4630055951437">
+			<model>Когтерез-секатор DeLIGHT малый с упором</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6000</price>
+		</offer>
+		<offer sku="4660020603955">
+			<model>Перчатка для вычесывания шерсти Пш-1001</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3250</price>
+		</offer>
+		<offer sku="4620866005542">
+			<model>Пуходёрка пластмассовая большая с каплей, средней жёсткости. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2500</price>
+		</offer>
+		<offer sku="4607017823101">
+			<model>Пуходёрка пластмассовая мал. с каплей, средней жёсткости. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4607017823095">
+			<model>Пуходёрка пластмассовая средняя с каплей, средней жёсткости. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2000</price>
+		</offer>
+		<offer sku="4607017825969">
+			<model>Пуходёрка пластмассовая трёхрядная большая с фигурной ручкой с каплей. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3000</price>
+		</offer>
+		<offer sku="5411388001971">
+			<model>Savic прогулочный шар для хомяков 12см.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3500</price>
+		</offer>
+		<offer sku="5411388001872">
+			<model>Savic прогулочный шар для хомяков 18см.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5400</price>
+		</offer>
+		<offer sku="799493289947">
+			<model>Дразнилка Бамбина ZOOARENA</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2000</price>
+		</offer>
+		<offer sku="6909493000174">
+			<model>Дразнилка Мышка с бантиком ZOOARENA</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2000</price>
+		</offer>
+		<offer sku="6909493000204">
+			<model>Дразнилка Облако ZOOARENA</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2000</price>
+		</offer>
+		<offer sku="6909493000211">
+			<model>Дразнилка Погремушка ZOOARENA</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="6909493000815">
+			<model>Дразнилка Цветочек ZOOARENA</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2000</price>
+		</offer>
+		<offer sku="4603738394012">
+			<model>Дразнилка-удочка Гусеница, деревянная палочка</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="7930068320075">
+			<model>Дразнилка-удочка Мышка с колокольчиком, деревянная палочка 38см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1100</price>
+		</offer>
+		<offer sku="4603738394364">
+			<model>Дразнилка-удочка Мышь из фетра с норковым хвостиком, деревянная палочка</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1100</price>
+		</offer>
+		<offer sku="7930068320471">
+			<model>Дразнилка-удочка Норка на трубочке, деревянная палочка 38см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1100</price>
+		</offer>
+		<offer sku="7930068320464">
+			<model>Дразнилка-удочка Норковая кисточка, деревянная палочка 38см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1150</price>
+		</offer>
+		<offer sku="4603738394418">
+			<model>Дразнилка-удочка Норковый мячик на пружинке, деревянная палочка 38см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4603738394425">
+			<model>Дразнилка-удочка Пружинки с норкой, деревянная палочка 38см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="4603738394449">
+			<model>Дразнилка-удочка Птичка с кошачьей мятой и перьями, деревянная палочка</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="7930068320440">
+			<model>Дразнилка-удочка Разноцветные трубочки, деревянная палочка</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1150</price>
+		</offer>
+		<offer sku="4603738394456">
+			<model>Дразнилка-удочка Рыбка с кошачьей мятой и перьями, деревянная палочка</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="7930068320013">
+			<model>Дразнилка-удочка Салют из перьев, деревянная палочка 38см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1000</price>
+		</offer>
+		<offer sku="4603738394401">
+			<model>Дразнилка-удочка Фетровая бабочка с норкой и лентами, деревянная палочка 38см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="7930068320051">
+			<model>Дразнилка-удочка Хвост, деревянная палочка</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="4680466123756">
+			<model>Набор игрушек для кошек, микс, 4 шт.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1800</price>
+		</offer>
+		<offer sku="4607017825280">
+			<model>Веселая ножка, 13 см. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1865</price>
+		</offer>
+		<offer sku="4650002277236">
+			<model>Игрушка для собак Канат Зооник 20-25 см, 2 узла Диаметр: 16 см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1450</price>
+		</offer>
+		<offer sku="4650002277243">
+			<model>Игрушка для собак Канат Зооник 35-37 см, 3 узла Диаметр: 16 см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2100</price>
+		</offer>
+		<offer sku="4650002277250">
+			<model>Игрушка для собак Канат Зооник 42-44 см, 2 узла Диаметр: 16 см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2635</price>
+		</offer>
+		<offer sku="4607017828144">
+			<model>Игрушка для собак Кошка гантель 20см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4607017820766">
+			<model>Кость №2, 15 см. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4607017820889">
+			<model>Кукуруза, 14,5 см. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4680016232334">
+			<model>Мяч малый Doglike (Оранжевый) O6,5см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2600</price>
+		</offer>
+		<offer sku="4607017821497">
+			<model>Мяч цельнорезиновый чёрный, 6,5 см. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2200</price>
+		</offer>
+		<offer sku="4607017821473">
+			<model>Мяч цельнорезиновый чёрный, 8 см. ЗООНИК.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3500</price>
+		</offer>
+		<offer sku="4680466033093">
+			<model>Набор мячей для собак, 3 шт. NUNBELL.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2890</price>
+		</offer>
+		<offer sku="4680466015907">
+			<model>Набор мячиков для животных, 4 шт. NUNBELL.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4680035421290">
+			<model>Снаряд малый TugTwist серии Doglike PRO 200*135*35</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4690660128495">
+			<model>Дарэленд 81111черн Домик-когтеточка Конфетти квадратный 41*37*h70см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>28000</price>
+		</offer>
+		<offer sku="4631136193210">
+			<model>Домик когтеточка НИКА круглый с полкой 40*40*75см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>23000</price>
+		</offer>
+		<offer sku="4690660017775">
+			<model>Когтеточка Чип столбик с мышью (джут)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9500</price>
+		</offer>
+		<offer sku="4690660024100">
+			<model>Когтеточка “ЕСО” Пальма (столбик джут,мех,узор) 30*30*42</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10000</price>
+		</offer>
+		<offer sku="4690660024124">
+			<model>Когтеточка “ЕСО” СТОЛБИК джут 60 см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8700</price>
+		</offer>
+		<offer sku="4602009008047">
+			<model>Когтеточка картонная ДОМАШНЯЯ 50 * 24 см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2500</price>
+		</offer>
+		<offer sku="4684511239003">
+			<model>Когтеточка картонная ДОМАШНЯЯ 56*30см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3000</price>
+		</offer>
+		<offer sku="8009470012867">
+			<model>Monge BWILD GRAIN FREE PATE Беззерновой паштет для кошек \Взрослые \Треска с овощами 100 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>850</price>
+		</offer>
+		<offer sku="8009470007320">
+			<model>Monge CAT DELICATE Chicken with asparagus \ Курица со спаржей 80гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007306">
+			<model>Monge CAT DELICATE Chicken with omlette  anchovies \ Курица с омлетом и анчоусами 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007290">
+			<model>Monge CAT DELICATE Chicken with squid \ Курица с кальмаром 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007238">
+			<model>Monge CAT NATURAL Tuna  Chicken with corn \ Тунец с курицей и кукурузой 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007245">
+			<model>Monge CAT NATURAL Yellowfin tuna with salmon \ Желтоперый тунец с лососем влажный корм для кошек, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007269">
+			<model>Monge CAT NATURAL влажный корм для взрослых кошек Seafood mixed with chicken \ Морской коктель с курицей, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007252">
+			<model>Monge CAT NATURAL влажный корм для взрослых кошек с курицей и креветками, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007276">
+			<model>Monge CAT NATURAL влажный корм для кошек Tuna  Chicken with beef \ Тунец с курицей и телятиной 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007214">
+			<model>Monge CAT NATURAL кусочки для кошек с атлантическим тунцом 80гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007283">
+			<model>Monge Cat Delicate кусочки для кошек с курицей 80гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007337">
+			<model>Monge Cat Delicate кусочки для кошек с курицей и ветчиной 80гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470013307">
+			<model>Monge Fruits  Tuna  Kiwi  влажный корм для кошек с тунцом и киви, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470013376">
+			<model>Monge Fruits Chicken  Fruits влажный корм для кошек с фруктами и курицей, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470013321">
+			<model>Monge Fruits Chicken  Papaya влажный корм для кошек с папайей и курицей, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1145</price>
+		</offer>
+		<offer sku="8009470013338">
+			<model>Monge Fruits Chicken  Pineapple влажный корм для кошек с курицей и ананасами 80 г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1145</price>
+		</offer>
+		<offer sku="8009470013314">
+			<model>Monge Fruits Tonno  Fruits влажный корм для кошек с фруктами и тунцом, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1070</price>
+		</offer>
+		<offer sku="8009470013284">
+			<model>Monge Fruits Tuna  Apple влажный корм для кошек с тунцом и яблоком, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1145</price>
+		</offer>
+		<offer sku="8009470013260">
+			<model>Monge Fruits Tuna  Papaya влажный корм для кошек с тунцом и папайей, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1145</price>
+		</offer>
+		<offer sku="8009470013277">
+			<model>Monge Fruits Tuna  Pineapple влажный корм для кошек с тунцом и ананасом, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1145</price>
+		</offer>
+		<offer sku="8009470013345">
+			<model>Monge Fruits chiken  Apple влажный корм для кошек с курицей и яблоком 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="4771317246356">
+			<model>NP Natures Protection Cat Sensible Digestion Turkeylamb консервы для кош 400гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1690</price>
+		</offer>
+		<offer sku="4771317456083">
+			<model>NP Natures Protection Cat adult with chicken  cheese 400 г консервы для кошек с курицей и сыром</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1420</price>
+		</offer>
+		<offer sku="8009470014625">
+			<model>Monge Vetsolution Urinary Struvite влажный корм для кошек с мочекаменной болезнью, 100 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>790</price>
+		</offer>
+		<offer sku="9003579307717">
+			<model>Royal Canin Recovery (интенсивная терапия) Диета для собак и кошек в восстановительный период после болезни, интенсивной терапии. Банка 195 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1615</price>
+		</offer>
+		<offer sku="8009470013352">
+			<model>Monge Fruits Polo  Aloe - Kitten влажный корм для котят с алоэ и курицей, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470013291">
+			<model>Monge Fruits Tonno  Aloe - Kitten влажный корм для котят тунец с алое, 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="4771317246349">
+			<model>NP Natures Protection Kitten TurkeyRabbit консервы для кошек 400гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1730</price>
+		</offer>
+		<offer sku="4771317451002">
+			<model>NP Natures Protection Kitten TurkeySalmon консервы для котят c мясом индюка и лососем 400гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1730</price>
+		</offer>
+		<offer sku="9003579311660">
+			<model>Royal Canin MOTHER BABY CAT Паштет для котят до 2 месяцев 195 g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1890</price>
+		</offer>
+		<offer sku="8009470012898">
+			<model>Monge BWILD GRAIN FREE PATE Беззерновой паштет для кошек \Стерилизованные \Тунец с овощами 100 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>740</price>
+		</offer>
+		<offer sku="4771317246363">
+			<model>NP Natures Protection Cat Neutered Turkey,SalmonRice консервы для кош 400гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1730</price>
+		</offer>
+		<offer sku="4771317456113">
+			<model>NP Natures Protection Cat Sterilised with chicken  duck 400 г консервы для кошек</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1590</price>
+		</offer>
+		<offer sku="8009470012614">
+			<model>Monge BWILD GRAIN FREE \БЕЗЗЕРНОВЫЕ КУСОЧКИ НЕПРАВИЛЬНОЙ ФОРМЫ ДЛЯ СОБАК Беззерновые кусочки\Взрослые\Ягненок,Тыква и Цукини 400 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1470</price>
+		</offer>
+		<offer sku="8009470012638">
+			<model>Monge BWild GF Mini Adult Anatra 400 г  для собак малых пород, беззерновое питание с уткой, тыквой и цукини</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1470</price>
+		</offer>
+		<offer sku="8009470012645">
+			<model>Monge Dog BWild GRAIN FREE беззерновые консервы из индейки с тыквой и кабачками для взрослых собак всех пород 400г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1470</price>
+		</offer>
+		<offer sku="8009470012621">
+			<model>Monge Dog BWild GRAIN FREE беззерновые консервы из лосося с тыквой и кабачками для взрослых собак всех пород 400г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1470</price>
+		</offer>
+		<offer sku="8009470014533">
+			<model>Monge VetSolution Recovery Dog влажный корм для собак 150гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>790</price>
+		</offer>
+		<offer sku="8009470006972">
+			<model>Monge dog Natural Консервы для собак Нежный цыпленок 95 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470006941">
+			<model>Monge dog Natural Консервы для собак Цыпленок с ветчиной 95 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470006965">
+			<model>Monge dog Natural Консервы для собак Цыпленок с овощами 95 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470006934">
+			<model>Monge dog Natural Консервы для собак Цыпленок с сыром 95 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470014571">
+			<model>Monge fresh Мясной рулет с кусочками ягненка для Взрослых 400 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1255</price>
+		</offer>
+		<offer sku="4771317245229">
+			<model>NP Nature’s Protection Aduly ChikenTurkey консервы для собак 200г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>940</price>
+		</offer>
+		<offer sku="9003579311004">
+			<model>Royal Canin HYPOALLERGENIC Влажный корм для собак с аллергией 400 g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2340</price>
+		</offer>
+		<offer sku="9003579000748">
+			<model>Royal Canin RENAL DOG CAN корм для взрослых собак, страдающих хронической почечной недостаточностью 410g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2340</price>
+		</offer>
+		<offer sku="9003579308004">
+			<model>Royal Canin SENSITIVITY CHICKEN DOG CAN Влажный корм для собак при аллергиях, диареях 420 g. (курица+рис)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2340</price>
+		</offer>
+		<offer sku="9003579308011">
+			<model>Royal Canin SENSITIVITY DUCK DOG CAN Влажный корм для собак при аллергиях, диареях 420g. (утка+рис)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2340</price>
+		</offer>
+		<offer sku="9003579310632">
+			<model>Royal Canin URINARY DOG CAN корм для собак, страдающих циститами бактериального происхождения 410g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2340</price>
+		</offer>
+		<offer sku="8009470012607">
+			<model>Monge Dog BWild GRAIN FREE PuppyJunior беззерновые консервы из утки с тыквой и кабачками для щенков всех пород 400г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1470</price>
+		</offer>
+		<offer sku="4771317450913">
+			<model>NP Natures Protection Puppy Chicken  Rabbit 800г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2400</price>
+		</offer>
+		<offer sku="4771317245212">
+			<model>NP Natures Protection Puppy Lamb 200г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>940</price>
+		</offer>
+		<offer sku="4602533781485">
+			<model>Little One Корм для шиншилл 400 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1250</price>
+		</offer>
+		<offer sku="4602533783595">
+			<model>Little One корм для шиншилл, 900 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2335</price>
+		</offer>
+		<offer sku="4602533781430">
+			<model>Little one Корм для морских свинок 400 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1610</price>
+		</offer>
+		<offer sku="5904479713001">
+			<model>Корм для морских свинок Lolo Pets, 500г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1700</price>
+		</offer>
+		<offer sku="4680265049646">
+			<model>Brit Premium Cat Adult Chicken сухой корм премиум класса с курицей для взрослых кошек 2</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8780</price>
+		</offer>
+		<offer sku="4680265049615">
+			<model>Brit Premium Cat Adult Salmon сухой корм премиум класса с лососем для взрослых кошек. 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8780</price>
+		</offer>
+		<offer sku="4680265049769">
+			<model>Brit Premium Cat Indoor сухой корм премиум класса с курицей для кошек дом. содержания 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9000</price>
+		</offer>
+		<offer sku="4680265049738">
+			<model>Brit Premium Cat Sensitive сух. премиум с ягнен, и инд. д/взр кошек с чувств.пищ. 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10305</price>
+		</offer>
+		<offer sku="800947001200">
+			<model>MONGE BWILD CAT DRY FOOD Сухой корм д/кошек с зайчатиной 65% мяса 1,5кг-</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10190</price>
+		</offer>
+		<offer sku="8009470011945">
+			<model>Monge Natural Superpremium Monoprotein монопротеиновый кролик 1.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8900</price>
+		</offer>
+		<offer sku="3182550767361">
+			<model>Royal Canin AROMA EXIGENT 10kg. корм для кошек, очень требовательных к запаху пищи 10kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>48525</price>
+		</offer>
+		<offer sku="3182550767262">
+			<model>Royal Canin AROMA EXIGENT 400g. корм для кошек, очень требовательных к запаху пищи 400g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="3182550721660">
+			<model>Royal Canin EXIGENT 35/30 SAVOUR 10kg. корм для привередливых кошек 10 kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>48380</price>
+		</offer>
+		<offer sku="3182550702201">
+			<model>Royal Canin FIT 32 2kg. корм для кошек, бывающих на улице, 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9750</price>
+		</offer>
+		<offer sku="3182550721738">
+			<model>Royal Canin HAIR  SKIN CARE 2kg. Корм для красоты кожи и шерсти 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>12570</price>
+		</offer>
+		<offer sku="3182550704625">
+			<model>Royal Canin INDOOR 2kg. Корм для кошек, живущих в доме 2kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10300</price>
+		</offer>
+		<offer sku="3182550784399">
+			<model>Royal Canin INDOOR 7+ Корм для кошек, живущих в доме 1.5kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7700</price>
+		</offer>
+		<offer sku="3182550739382">
+			<model>Royal Canin INDOOR LONGHAIR 2kg.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10500</price>
+		</offer>
+		<offer sku="3182550710640">
+			<model>Royal Canin MAINE COON 2 кг Сухой корм для взрослых кошек породы Мейнкун</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11695</price>
+		</offer>
+		<offer sku="3182550717182">
+			<model>Royal Canin ORAL CARE 1.5 кг КОРМ ДЛЯ КОШЕК ДЛЯ ПРОФИЛАКТИКИ ОБРАЗОВАНИЯ ЗУБНОГО НАЛЕТА И ЗУБНОГО КАМНЯ</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9410</price>
+		</offer>
+		<offer sku="3182550767231">
+			<model>Royal Canin PROTEIN EXIGENT 10kg. корм для кошек, требовательных к количеству белка 10kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>47500</price>
+		</offer>
+		<offer sku="3182550767194">
+			<model>Royal Canin PROTEIN EXIGENT 2kg. корм для кошек, требовательных к количеству белка 2kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11300</price>
+		</offer>
+		<offer sku="3182550756419">
+			<model>Royal canin BRITISH SHORTHAIR 2kg Сухой корм для кошек британской породы</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11695</price>
+		</offer>
+		<offer sku="3182550702355">
+			<model>Royal canin SENSIBLE 33 10kg. корм для кошек, с чувствительным пищеварением 10 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>46355</price>
+		</offer>
+		<offer sku="3182550702317">
+			<model>Royal canin SENSIBLE 33 2kg. корм для кошек, с чувствительным пищеварением 2кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11500</price>
+		</offer>
+		<offer sku="8009470081757">
+			<model>Monge VetSolution Diabetic Cat для взрослых кошек 1.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13800</price>
+		</offer>
+		<offer sku="8009470081672">
+			<model>Monge VetSolution Hepatic Cat для взрослых кошек 400г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3600</price>
+		</offer>
+		<offer sku="8009470081658">
+			<model>Monge VetSolution Renal Cat для взрослых кошек 1.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13225</price>
+		</offer>
+		<offer sku="3182550765350">
+			<model>Royal Canin CALM FELINE 2KG для кошек, чувствительных к стрессу</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>14550</price>
+		</offer>
+		<offer sku="3182550799621">
+			<model>Royal Canin Neutered Cat VD Satiety Balance для поддержания формы после кастрации сух. 400g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2520</price>
+		</offer>
+		<offer sku="3182550748155">
+			<model>Royal Canin RENAL SPECIAL 2KG Корм сухой для взрослых кошек с пониженным аппетитом для поддержания функции почек при острой или хронической почечной недостаточности</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>15050</price>
+		</offer>
+		<offer sku="3182550917049">
+			<model>Royal Canin Renal Special Сухой корм для кошек при острой-хронической почечной недостаточности с пониженым аппетитом 400g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3480</price>
+		</offer>
+		<offer sku="3182550899321">
+			<model>Royal Canin SKIN  COAT корм при дермотозах и чрезмерном выпадении шерсти 400g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3025</price>
+		</offer>
+		<offer sku="3182550759687">
+			<model>Royal Canin Sensivity Control Сухой корм для взрослых кошек при пищевой аллергии 1,5kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10335</price>
+		</offer>
+		<offer sku="3182550759670">
+			<model>Royal Canin Sensivity Control Сухой корм для взрослых кошек при пищевой аллергии 400g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3025</price>
+		</offer>
+		<offer sku="4680265049677">
+			<model>Brit Premium Cat Kitten сухой корм премиум класса с курицей и лососем для котят 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8950</price>
+		</offer>
+		<offer sku="8009470005500">
+			<model>Monge Cat Monoprotein Kitten Сухой корм для котят с форелью 1,5кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10235</price>
+		</offer>
+		<offer sku="3182550816533">
+			<model>Royal Canin BRITISH SHORTHAIR KITTEN Корм для котят британской породы 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13170</price>
+		</offer>
+		<offer sku="3182550702379">
+			<model>Royal Canin KITTEN 36 400g. Корм для котят 400g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2480</price>
+		</offer>
+		<offer sku="3182550702423">
+			<model>Royal Canin KITTEN 36 Корм для котят 2kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11425</price>
+		</offer>
+		<offer sku=" 3182550707312">
+			<model>Royal Canin MOTHERBABY CAT 2kg. Корм Роял Канин для котят от 1 до 4 месяцев и кормящих кошек.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11425</price>
+		</offer>
+		<offer sku="3182550707305">
+			<model>Royal Canin MOTHERBABY CAT 400g. Корм для котят до 4 месяцев 400g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2580</price>
+		</offer>
+		<offer sku="3182550702973">
+			<model>Royal canin KITTEN 36 Корм для котят 10kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>51475</price>
+		</offer>
+		<offer sku="3182550724432">
+			<model>Royal canin MOTHERBABY CAT 10 KG Корм для котят до 4 месяцев 10 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>51075</price>
+		</offer>
+		<offer sku="4680265049820">
+			<model>Brit Premium Cat Duck  Chicken сухой премиум класса с уткой и кур. д/взр стерил кошек 2</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10450</price>
+		</offer>
+		<offer sku="4680265049790">
+			<model>Brit Premium Cat Light сухой корм премиум класса с курицей для кошек с избыт. весом 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="4680265049585">
+			<model>Brit Premium Cat Sterilised Chicken сухой корм премиум класса с кур д/взр Стерил кошек 2 к</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10480</price>
+		</offer>
+		<offer sku="4680265049851">
+			<model>Brit Premium Cat Sterilised Salmon  Chicken сухой премиум кл с лос и кур д/взр стерил 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10450</price>
+		</offer>
+		<offer sku="8009470005524">
+			<model>Monge Cat Monoprotein Sterilised Beef с говядиной 1.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9400</price>
+		</offer>
+		<offer sku="8009470005494">
+			<model>Monge Cat Monoprotein Sterilised Trout корм для стерилизованных кошек с форелью 1,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9000</price>
+		</offer>
+		<offer sku="3182550805186">
+			<model>Royal Canin KITTEN STERILISED 2 кг Корм для стерилизованных котят</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10975</price>
+		</offer>
+		<offer sku="3182550737623">
+			<model>Royal canin STERILISED 37 10kg. корм для стерилизованных кошек 10kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>48075</price>
+		</offer>
+		<offer sku="3182550737555">
+			<model>Royal canin STERILISED 37 400 gr. корм для стерилизованных кошек</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2555</price>
+		</offer>
+		<offer sku="3182550737593">
+			<model>Royal canin STERILISED 37 корм для стерилизованных кошек 2kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10485</price>
+		</offer>
+		<offer sku="4602533781119">
+			<model>RIO корм для средних попугаев в период линьки 500 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1350</price>
+		</offer>
+		<offer sku="8009470011228">
+			<model>Monge Adult Light Salmon and Rice 2,5кг/Облегченный для собак всех пород</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10900</price>
+		</offer>
+		<offer sku="8009470004947">
+			<model>Monge All Breeds Adult Beef  Rice  для взрослых собак всех пород Телятина и рис 2,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10835</price>
+		</offer>
+		<offer sku="8009470011143">
+			<model>Monge All Breeds Adult Rabbit для собак всех пород с кроликом, рисом и картофелем 2.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11500</price>
+		</offer>
+		<offer sku="8009470011297">
+			<model>Monge All Breeds Adult Salmon для собак всех пород с лососем 2.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10450</price>
+		</offer>
+		<offer sku="8009470004732">
+			<model>Monge BWILD DOG GRAIN FREE Duck  Potatoes \ Утка и картофель \ все породы 2,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>14490</price>
+		</offer>
+		<offer sku="8009470011716">
+			<model>Monge BWILD DOG GRAIN FREE Salmon  potatoes \ Лосось и горох \ все породы 2,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>14640</price>
+		</offer>
+		<offer sku="8009470011990">
+			<model>Monge BWild LOW GRAIN Dog Adult Wild Boar 2,5 кг корм с мясом кабана</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>12250</price>
+		</offer>
+		<offer sku="8009470011853">
+			<model>Monge DOG BWILD LOW GR DEER ALL Щенки\юниоры всех пород с мясом оленя низкозерновой 2,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13525</price>
+		</offer>
+		<offer sku="8009470012102">
+			<model>Monge DOG BWILD Low Grain Goose All Br Adult\ Сухой корм для взрослых собак всех пород с мясом гуся низкозерновой 2,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11730</price>
+		</offer>
+		<offer sku="8009470011983">
+			<model>Monge Dog Bwild Low Grain оленина 2.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13500</price>
+		</offer>
+		<offer sku="8009470011464">
+			<model>Monge EXTRA SMALL Adult Salmon и Rice 2,5 kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10000</price>
+		</offer>
+		<offer sku="8009470011167">
+			<model>Monge Hypoallergenic Salmone  Tuna \ Гипоалергенный \ Лосось и Тунец 2,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11895</price>
+		</offer>
+		<offer sku="8009470011570">
+			<model>Monge Mini Adult Salmon для собак мелких пород с лососем 2.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10500</price>
+		</offer>
+		<offer sku="8009470011549">
+			<model>Monge Mini Lamb,rice potat. Adult \ Взрослые \ Ягненок, рис, карт. 2,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11000</price>
+		</offer>
+		<offer sku="8009470060028">
+			<model>Monge Special Dog Excellence Medium Adult Pollo 3 KG</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13800</price>
+		</offer>
+		<offer sku="4771317457486">
+			<model>NP Natures Protection Adult Lamb (ягненок) 500г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1675</price>
+		</offer>
+		<offer sku="4771317457516">
+			<model>NP Natures Protection Extra Salmon All breed dog(лосось) 2kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5490</price>
+		</offer>
+		<offer sku="4771317456809">
+			<model>NP Natures Protection Lifestyle Grain Free Adult SalmonKrill 1.5кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>4700</price>
+		</offer>
+		<offer sku="4771317456847">
+			<model>NP Natures Protection Lifestyle Grain Free Adult White Fish с белой рыбой 1.5кг для собак</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5000</price>
+		</offer>
+		<offer sku="4771317457370">
+			<model>NP Natures Protection Mini Extra Salmon (лосось) 2кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6250</price>
+		</offer>
+		<offer sku="4771317457943">
+			<model>NP Natures Protection SCare Sensitive SkinStomach Lamb Adult Small Breeds 1.5kg для взр.собак малых пород</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6000</price>
+		</offer>
+		<offer sku="8698995003452">
+			<model>REFLEX PLUS MEDIUM LARGE BREED ADULT DOG FOOD LAMB AND RICE 15KG Сухой корм для взрослых собак крупных и средних пород с ягненком и рисом</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>22835</price>
+		</offer>
+		<offer sku="8698995003414">
+			<model>REFLEX PLUS MINI SMALL BREED ADULT DOG FOOD CHICKEN 3KG Сухой корм для взрослых собак мелких пород с курицей</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5450</price>
+		</offer>
+		<offer sku="8698995029391">
+			<model>REFLEX PLUS MINI SMALL BREED ADULT DOG FOOD SALMON 8KG Сухой корм для взрослых собак мелких пород с лососем</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13790</price>
+		</offer>
+		<offer sku="3182550775267">
+			<model>Royal Canin CLUB ADULT CC 20kg. корм для взрослых собак вольерного содержания, ведущих неактивный образ жизни 20kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>41030</price>
+		</offer>
+		<offer sku="3182550775274">
+			<model>Royal Canin ENERGY HE 20kg. Корм для взрослых собак с повышенной физической нагрузкой 20кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>44420</price>
+		</offer>
+		<offer sku="3182550893947">
+			<model>Royal Canin MINI DIGESTIVE CARE 1 kg корм для собак с чувствительным пищеварением, 1 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6850</price>
+		</offer>
+		<offer sku="3182550732154">
+			<model>Royal Canin Maxi Adult сухой корм для собак крупных пород 15КГ</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>48890</price>
+		</offer>
+		<offer sku="8698995011716">
+			<model>Сухой корм для собак TRENDLINE ADULT DOG FOOD BEEF 1KG</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1270</price>
+		</offer>
+		<offer sku="8009470081177">
+			<model>Monge VetSolution Hepatic Dog 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11600</price>
+		</offer>
+		<offer sku="8009470081139">
+			<model>Monge VetSolution Renal Dog 2 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>12145</price>
+		</offer>
+		<offer sku="3182550771153">
+			<model>Royal Canin GASTRO INT LOW FAT1.5kg. корм для собак, страдающих острым панкреатитом 1.5kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9600</price>
+		</offer>
+		<offer sku="3182550771207">
+			<model>Royal Canin GASTROINTESTINAL HIGH FIBRE DOG 2 kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13440</price>
+		</offer>
+		<offer sku="3182550771719">
+			<model>Royal Canin HEPATIC CANINE корм для собак, страдающих хроническим гепатитом 1,5kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10895</price>
+		</offer>
+		<offer sku="3182550710923">
+			<model>Royal Canin HYPOALL CANINE корм для собак, страдающих аллергией и непереносимость пищевых продуктов 2kg.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>14875</price>
+		</offer>
+		<offer sku="3182550710992">
+			<model>Royal Canin RENAL CANINE корм для собак, страдающих хронической почечной недостаточностью 2kg.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>14700</price>
+		</offer>
+		<offer sku="3182550710947">
+			<model>Royal Canin SENSITIVITY CONTROL CANINE 1,5kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9845</price>
+		</offer>
+		<offer sku="3182550711036">
+			<model>Royal Canin URINARY DOG S/O 2kg. корм для собак, страдающих циститами, наличием (или склонностью) струвитных камней в мочевыводящих путях 2kg.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11710</price>
+		</offer>
+		<offer sku="3182550771054">
+			<model>Royal canin GASTRO INTESTINAL Корм для собак с расстройствами пищеварения 2 kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>12100</price>
+		</offer>
+		<offer sku="8009470011372">
+			<model>Monge All Breeds Puppy  Junior Beef with Rice 2,5 kg</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11050</price>
+		</offer>
+		<offer sku="8009470011181">
+			<model>Monge All Breeds Puppy  Junior Lamb для щенков всех пород 2,5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11500</price>
+		</offer>
+		<offer sku="8009470011204">
+			<model>Monge All Breeds Puppy  Junior Salmon  Rice All Breeds \ Лосось и рис \ Щенки и юниоры всех пород 2.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>11500</price>
+		</offer>
+		<offer sku="8698995003391">
+			<model>REFLEX PLUS MINI SMALL BREED JUNIOR DOG FOOD CHICKEN 3KG Сухой корм для щенков мелких пород с курицей</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5465</price>
+		</offer>
+		<offer sku="4680265048816">
+			<model>Brit Premium Пауч д/ взрослых кошек, говядина и горошек в соусе 85гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048854">
+			<model>Brit Premium Пауч д/ взрослых кошек, лосось и форель 85гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048847">
+			<model>Brit Premium Пауч д/ взрослых кошек, треска в соусе 85гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048908">
+			<model>Brit Premium Пауч д/ взрослых кошек, утка в соусе 85гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048823">
+			<model>Brit Premium Пауч д/ взрослых кошек, цыпленок и индейка 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048915">
+			<model>Brit Premium Пауч д/ взрослых кошек, цыпленок и перепёлка в соусе 85гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050130">
+			<model>Brit Premium Пауч для взрослых кошек ассорти из птицы в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050178">
+			<model>Brit Premium Пауч для взрослых кошек треска в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050154">
+			<model>Brit Premium Пауч для взрослых кошек тунец в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050185">
+			<model>Brit Premium Пауч для взрослых кошек форель в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050161">
+			<model>Brit Premium Пауч для взрослых кошек, цыпленок в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050147">
+			<model>Brit Premium Пауч для взрослых кошек, ягненок в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="8009470006873">
+			<model>MONGE CAT NATURAL ПАУЧИ Pacific tuna in Jelly \ Тихоокеанский тунец в желе 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470007764">
+			<model>MONGE CAT NATURAL ПАУЧИ Tuna  Chicken with srimp in Jelly \ Тунец, курица с креветками в желе 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470006880">
+			<model>MONGE CAT NATURAL ПАУЧИ Tuna with anchovies in Jelly \ Тунец с анчоусами в желе 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470006910">
+			<model>MONGE CAT NATURAL ПАУЧИ Tuna with beef in Jelly \ Тунец с телятиной в желе 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470006897">
+			<model>MONGE CAT NATURAL ПАУЧИ Tuna with salmon in Jelly \ Тунец с лососем в желе 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470006903">
+			<model>MONGE CAT NATURAL ПАУЧИ Tuna with shrimp in Jelly \ Тунец с креветками в желе 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470012775">
+			<model>Monge BWILD POUCH для кошек Беззерновые кусочки \Взрослые\ Анчоусы с овощами 85 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>800</price>
+		</offer>
+		<offer sku="8009470013628">
+			<model>Monge CAT GRILL ADULT LAMB пауч кусочки для взрослых кошек с ягненком 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>750</price>
+		</offer>
+		<offer sku="8009470013611">
+			<model>Monge CAT GRILL ADULT RABBIT пауч кусочки для взрослых кошек с кроликом 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>750</price>
+		</offer>
+		<offer sku="8009470013666">
+			<model>Monge CAT GRILL Senior mackrell пауч кусочки для пожилых кошек с макрелью 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>750</price>
+		</offer>
+		<offer sku="8009470017527">
+			<model>Monge CAT Grill Mix мультибокс 12 шт. влажного корма для стерилизованных кошек (телятина/петух/форель)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8110</price>
+		</offer>
+		<offer sku="8009470017534">
+			<model>Monge CAT Grill Mix мультибокс Набор паучей, 12 шт х 85 г. (6 шт с ягненком, 6 шт с кроликом).</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7050</price>
+		</offer>
+		<offer sku="8009470007771">
+			<model>Monge CAT NATURAL ПАУЧИ Tuna with duck in Jelly \ Тунец с уткой в желе 80 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470012768">
+			<model>Monge Cat BWild GRAIN FREE паучи из трески с креветками и овощами для взрослых кошек 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>800</price>
+		</offer>
+		<offer sku="8009470013734">
+			<model>Monge MONOPROTEIN паучи Монобелковый паштет \Взрослые \Индейка\паучи 85 гр.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>760</price>
+		</offer>
+		<offer sku="8009470013703">
+			<model>Monge MONOPROTEIN паучи Монобелковый паштет \Взрослые \Утка \паучи 85 гр.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>760</price>
+		</offer>
+		<offer sku="9003579309568">
+			<model>Royal Canin DIGEST SENSITIVE (Sensible) Влажный корм для кошек с чувствительным пищеварением12*85 (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7880</price>
+		</offer>
+		<offer sku="9003579310182">
+			<model>Royal Canin INSTINCTIVE 7+ (в соусе) Влажный корм для кошек старше 7 лет12*85G (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7880</price>
+		</offer>
+		<offer sku="9003579309544">
+			<model>Royal Canin INSTINCTIVE IN JELLY Влажный корм для кошек в желе12*85G (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7880</price>
+		</offer>
+		<offer sku="9003579003879">
+			<model>Royal Canin INSTINCTIVE IN LOAF Влажный корм для кошек паштет 12*85G (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7880</price>
+		</offer>
+		<offer sku="9003579308738">
+			<model>Royal Canin Instinctive (в соусе) 12*85гр (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7880</price>
+		</offer>
+		<offer sku="9003579311790">
+			<model>Royal Canin Intense Beauty IN JELLY Влажный корм для кошек в желе 2*85G (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7880</price>
+		</offer>
+		<offer sku="9003579308721">
+			<model>Royal Canin Intense Beauty Влажный корм для кошек в соусе 2*85G (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7880</price>
+		</offer>
+		<offer sku="9003579311806">
+			<model>Royal Canin Light Weight Care (в желе) Влажный корм для кошек в желе12*85G (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7880</price>
+		</offer>
+		<offer sku="9003579001202">
+			<model>Royal Canin MAINECOON Влажный корм для мейнкунов 12*85 (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8940</price>
+		</offer>
+		<offer sku="9003579000359">
+			<model>Royal Canin Urinary Care (в соусе) 12*85ГР, (БЛОК)Полнорационный влажный корм для профилактики мочекаменной болезни для взрослых котов и кошек старше 1 года. Кусочки в желе.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8200</price>
+		</offer>
+		<offer sku="9003579011980">
+			<model>Royal Canin Diabetic Cat Pouch (сахарный диабет) паучи 12шт</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8565</price>
+		</offer>
+		<offer sku="9003579013557">
+			<model>Royal Canin Gastro Intestinal Cat Pouch (диареи) 12*85гр (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8565</price>
+		</offer>
+		<offer sku="9003579013601">
+			<model>Royal Canin Gastrointestinal Moderate Calorie 12*85гр (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8565</price>
+		</offer>
+		<offer sku="9003579000489">
+			<model>Royal Canin RENAL BEEF CAT POUCH влажный корм, поддерживающий функцию почек 12*85гр ( говядина ) БЛОК</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8565</price>
+		</offer>
+		<offer sku="9003579000519">
+			<model>Royal Canin RENAL TUNA CAT POUCH корм, поддерживающий функцию почек 12*85 ( тунец ) БЛОК</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8200</price>
+		</offer>
+		<offer sku="9003579011423">
+			<model>Royal Canin Sensitivity Control Cat Pouch 12*85гр (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8565</price>
+		</offer>
+		<offer sku="9003579010228">
+			<model>Royal Canin URINARY MODERATE CALORIE 12X85G (БЛОК) влажный корм для кошек после кастрации/стерилизации или при предрасположенности к избыточному весу при лечении мочекаменной болезни</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8565</price>
+		</offer>
+		<offer sku="4680265048861">
+			<model>Brit Premium Пауч д/ котят, с белой рыбой в соусе 85 г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048809">
+			<model>Brit Premium Пауч д/ котят, цыпленок в соусе 85гр арт 5048809</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050116">
+			<model>Brit Premium Пауч д/котят Телятина с Морковью в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050123">
+			<model>Brit Premium Пауч д/котят кролик в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="8009470006927">
+			<model>MONGE Tuna with liver in Jelly Kitten - Тунец с печенью в желе, для котят 80гр.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1120</price>
+		</offer>
+		<offer sku="8009470013604">
+			<model>Monge CAT GRILL KITTEN salmone пауч кусочки для котят с лососем 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>750</price>
+		</offer>
+		<offer sku="9003579003831">
+			<model>Royal Canin KITTEN IN LOAF (паштет) для котят 12*85G БЛОК</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8275</price>
+		</offer>
+		<offer sku="9003579007129">
+			<model>Royal Canin KITTEN STERILIZED 12X85G Влажный корм для стерилизованных котят 12 шт (БЛОК)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8275</price>
+		</offer>
+		<offer sku="9003579311783">
+			<model>Royal Canin Kitten Instinctive JELLY (в желе) БЛОК</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8275</price>
+		</offer>
+		<offer sku="4680265048885">
+			<model>Brit Premium Пауч д/ стерил кошек, куриная печень в соусе 85гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050192">
+			<model>Brit Premium Пауч для взрослых стерилизованных кошек индейка с сыром в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050222">
+			<model>Brit Premium Пауч для взрослых стерилизованных кошек мясное ассорти с потрошками 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050215">
+			<model>Brit Premium Пауч для взрослых стерилизованных кошек перепелка в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265050208">
+			<model>Brit Premium Пауч для взрослых стерилизованных кошек утка с яблоками в желе 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048830">
+			<model>Brit Premium для взрослых стерилизованных кошек с цыпленком в соусе, пауч 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048892">
+			<model>Brit Premium для взрослых стерилизованных кошек, лосось в соусе, пауч 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="4680265048922">
+			<model>Brit Premium для взрослых стерилизованных кошек, ягненок и говядина в соусе, пауч 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>550</price>
+		</offer>
+		<offer sku="8009470013642">
+			<model>Monge CAT GRILL STERILISED VEAL Пауч кусочки для стерилизованных кошек с телятиной 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>750</price>
+		</offer>
+		<offer sku="8009470013659">
+			<model>Monge CAT GRILL Sterilised trout пауч кусочки для стерилизованных кошек с форелью 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>750</price>
+		</offer>
+		<offer sku="8009470012782">
+			<model>Monge Cat BWild GRAIN FREE паучи из лосося с креветками и овощами для стерилизованных кошек 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>800</price>
+		</offer>
+		<offer sku="8009470012799">
+			<model>Monge Cat BWild GRAIN FREE паучи из тунца с креветками и овощами для стерилизованных кошек 85г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>800</price>
+		</offer>
+		<offer sku="8009470017503">
+			<model>Monge DOG GRILL MIX (блок) Кусочки Лосось, Свинина, Ягненок (Мультибокс) 12 шт</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6980</price>
+		</offer>
+		<offer sku="8009470017510">
+			<model>Monge DOG GRILL MIX (блок) Кусочки лятина, Треска, Курица с Индейкой (Мультибокс) 12 шт</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6980</price>
+		</offer>
+		<offer sku="9003579001509">
+			<model>Royal Canin CHIHUAHUA Корм для чихуахуа 12*85g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8515</price>
+		</offer>
+		<offer sku="9003579001431">
+			<model>Royal Canin YORKSHIRE TERRIER корм для йоркширских терьеров 12*85g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>8515</price>
+		</offer>
+		<offer sku="4771317461544">
+			<model>NP Lifestyle лакомства для кошек мягкие полоски из рыбы 75г</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1100</price>
+		</offer>
+		<offer sku="4771317472069">
+			<model>NP Lifestyle Grain Free Salmon Healthy Skin  Coat Support 160g лакомства с лососем для активных взрослых собак</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4771317472038">
+			<model>NP Lifestyle Grain Free White fish Active  Fresh 150g лакомство с белой рыбой для активных молодых собак</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1500</price>
+		</offer>
+		<offer sku="4771317472403">
+			<model>NP Nature’s Protection Comfort Calm лакомство для собак с птицей 160 гр</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1430</price>
+		</offer>
+		<offer sku="4771317472014">
+			<model>NP Nature’s Protection Superior Care White Dogs Clear Vision лакомство для собак с лососем 110g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1430</price>
+		</offer>
+		<offer sku="4771317472007">
+			<model>NP Nature’s Protection Superior Care White Dogs лакомство для собак с белой рыбой 110g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1430</price>
+		</offer>
+		<offer sku="4771317472380">
+			<model>NP Natures Protection Poultry Healthy Growth for Junior dog 150 г с домашней птицей для щенков</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1795</price>
+		</offer>
+		<offer sku="4771317471987">
+			<model>NP Nature’s Protection Superior Care White Dogs лакомство для молодых собак с лососем 110g</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1430</price>
+		</offer>
+		<offer sku="5411388922900">
+			<model>Savic LOVE Закрытый Био туалет Nestor серо-черный</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>17000</price>
+		</offer>
+		<offer sku="5411388022716">
+			<model>Savic Закрытый Био туалет Nestor с фильтром и дверцей, цвет бело серый, раз. 56*39*38,5</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>12000</price>
+		</offer>
+		<offer sku="5411388722784">
+			<model>Savic Закрытый Био туалет Nestor с фильтром и дверцей, цвет голубой камень, раз. 56*39*38,5</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>12000</price>
+		</offer>
+		<offer sku="5411388205300">
+			<model>Savic Закрытый Био туалет Reina, серый, размер 64*46*48</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>30000</price>
+		</offer>
+		<offer sku="5411388200015">
+			<model>Savic Закрытый Био туалет бело голубой, размер 44,5*35,5*32</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7465</price>
+		</offer>
+		<offer sku="5411388002169">
+			<model>Savic лоток для кошек, размер 38см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2500</price>
+		</offer>
+		<offer sku="5411388026318">
+			<model>Savic лоток с бортиком Isis, размер 42*31*12.5см</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3500</price>
+		</offer>
+		<offer sku="5411388027803">
+			<model>Savic совок для кош.лотка сер/беж</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>825</price>
+		</offer>
+		<offer sku="5411388027902">
+			<model>Savic совок для кош.лотка сер/беж</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>825</price>
+		</offer>
+		<offer sku="4627077752081">
+			<model>GIGWI Бутылка дорожная для воды для кошек и собак Пластиковая 500 мл 25,5*7 см 75189</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3300</price>
+		</offer>
+		<offer sku="4680384026290">
+			<model>Disney Миска керамическая Marvel Стражи галактики, 0,2л арт 30231025</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4680384026955">
+			<model>TRIOL Миска керамическая Барбос, 0,25л APT 30231034</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2500</price>
+		</offer>
+		<offer sku="4680384026948">
+			<model>TRIOL Миска керамическая Котофей, 0,25л, APT 30231033</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4650001615060">
+			<model>Миска керамическая КОСТОЧКИ №2 0,79 л. DOGMAN.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3700</price>
+		</offer>
+		<offer sku="4605396110836">
+			<model>Миски металлические на подставке 2 * 0,2 л.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="5411388029500">
+			<model>Savic миска пластик с поддоном серая, разм. 45*36*8</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5640</price>
+		</offer>
+		<offer sku="4610004683381">
+			<model>МИСКА пластиковая Догуш для животных 250мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>600</price>
+		</offer>
+		<offer sku="4610004683398">
+			<model>МИСКА пластиковая Догуш для животных 350мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>700</price>
+		</offer>
+		<offer sku="4627102507792">
+			<model>Миска Cats 0,7л. М4368</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="4607114180404">
+			<model>Миска Дарэлл №2 100мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>500</price>
+		</offer>
+		<offer sku="4607114180411">
+			<model>Миска Дарэлл №3 200мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>800</price>
+		</offer>
+		<offer sku="4607114180350">
+			<model>Миска Дарэлл д/кош нулевка RP2234</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>555</price>
+		</offer>
+		<offer sku="4655750520269">
+			<model>Миска для животных МУР-МЯУ двойная на подставке, бежевый 0,3 л.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2500</price>
+		</offer>
+		<offer sku="4607114180374">
+			<model>Миска для кошек Дарэлл двойная, 190/190 мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1000</price>
+		</offer>
+		<offer sku="4627162145484">
+			<model>Миска для кошек Cats 0,3л, цвет бежевый, пластик</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>600</price>
+		</offer>
+		<offer sku="2000000004426">
+			<model>Миска для кошек Cats 0,3л, цвет серый, пластик</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>600</price>
+		</offer>
+		<offer sku="4627162146160">
+			<model>Миска для кошек Cats 0,7л, цвет бежевый, пластик М7799 Zoo Plast</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="4627162147228">
+			<model>Миска для кошек МУР-МЯУ голубой 0,2 л.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>390</price>
+		</offer>
+		<offer sku="4627162147266">
+			<model>Миска для кошек МУР-МЯУ голубой 0,3 л.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>600</price>
+		</offer>
+		<offer sku="4627162147242">
+			<model>Миска для кошек МУР-МЯУ св.бежевый 0,2 л.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>390</price>
+		</offer>
+		<offer sku="4627162147280">
+			<model>Миска для кошек МУР-МЯУ св.бежевый 0,3 л.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>600</price>
+		</offer>
+		<offer sku="4610004683411">
+			<model>Миска для кошек и собак Догуш двойная 2*250 мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="4610004683428">
+			<model>Миска для кошек и собак Догуш двойная 2*350 мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1100</price>
+		</offer>
+		<offer sku="4607114181708">
+			<model>Миска пластиковая двойная Дарелл Объем: 150/250 мл</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="4607114180398">
+			<model>Миска пластиковая двойная ЕВРО, 2 * 250 МЛ. ДАРЭЛЛ.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="4627096315953">
+			<model>Набор мисок для кошек/собак 0,3л (с лотком), микс, пластик М3183 Zoo Plast (арт. 726570)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3000</price>
+		</offer>
+		<offer sku="0745760101573">
+			<model>Alpine Cat Classic (Нейтральный) гранулированный 12л</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7000</price>
+		</offer>
+		<offer sku="0745760101313">
+			<model>Alpine Cat Classic (Нейтральный) гранулированный 6l</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3550</price>
+		</offer>
+		<offer sku="0745760101306">
+			<model>Alpine Cat Green Tea (Зеленый чай) гранулированный 12л</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7000</price>
+		</offer>
+		<offer sku="0745760101344">
+			<model>Alpine Cat Green Tea (Зеленый чай) гранулированный 6l</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3550</price>
+		</offer>
+		<offer sku="0745760101351">
+			<model>Alpine Cat Lavender (Лаванда) гранулированный 12л</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7000</price>
+		</offer>
+		<offer sku="0745760101597">
+			<model>Alpine Cat Peach (Персик) гранулированный 12л</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7000</price>
+		</offer>
+		<offer sku="0745760101337">
+			<model>Alpine Cat Peach (Персик) гранулированный 6l</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3550</price>
+		</offer>
+		<offer sku="0745760101320">
+			<model>Alpine Cat Sakura гранулированный 6l</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3550</price>
+		</offer>
+		<offer sku="4607109235805">
+			<model>HAKASE AREKKUSU Наполнитель соевый комкующийся Кофе 10л Tofu</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>10000</price>
+		</offer>
+		<offer sku="4607109234181">
+			<model>HAKASE AREKKUSU Наполнитель соевый комкующийся Персик 6л Tofu</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>7000</price>
+		</offer>
+		<offer sku="4603739311148">
+			<model>Murkel силикагель крупный 10л. Алое вера 4.5кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9500</price>
+		</offer>
+		<offer sku="4603739311100">
+			<model>Murkel силикагель крупный 10л. Клубника 4.5кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9500</price>
+		</offer>
+		<offer sku="4603739311070">
+			<model>Murkel силикагель крупный 10л. Лаванда 4.5кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9500</price>
+		</offer>
+		<offer sku="4603739311018">
+			<model>Murkel силикагель крупный 10л. Нейтральный 4.5кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9500</price>
+		</offer>
+		<offer sku="4603739311179">
+			<model>Murkel силикагель крупный 10л. Скошенная трава 4.5кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9500</price>
+		</offer>
+		<offer sku="4603739311049">
+			<model>Murkel силикагель крупный 10л. Яблоко 4.5 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>9500</price>
+		</offer>
+		<offer sku="4603739311384">
+			<model>Murkel силикагель крупный 22л. Алое вера 10кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>20250</price>
+		</offer>
+		<offer sku="4603739311391">
+			<model>Murkel силикагель крупный 22л. Клубника 10кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>20250</price>
+		</offer>
+		<offer sku="4603739311544">
+			<model>Murkel силикагель крупный 22л. Лотос 10кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>20250</price>
+		</offer>
+		<offer sku="4603739311377">
+			<model>Murkel силикагель крупный 22л. Нейтральный 10кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>20250</price>
+		</offer>
+		<offer sku="4603739311537">
+			<model>Murkel силикагель крупный 22л. Роза 10кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>20250</price>
+		</offer>
+		<offer sku="4603739311353">
+			<model>Murkel силикагель крупный 22л. Скошенная трава 10кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>20250</price>
+		</offer>
+		<offer sku="4603739311360">
+			<model>Murkel силикагель крупный 22л. Яблоко 10кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>20250</price>
+		</offer>
+		<offer sku="4603739311131">
+			<model>Murkel силикагель крупный 4л. Алое вера 1.8кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3800</price>
+		</offer>
+		<offer sku="4603739311094">
+			<model>Murkel силикагель крупный 4л. Клубника 1.8кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3800</price>
+		</offer>
+		<offer sku="4603739311001">
+			<model>Murkel силикагель крупный 4л. Нейтральный 1.8кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3800</price>
+		</offer>
+		<offer sku="4603739311162">
+			<model>Murkel силикагель крупный 4л. Скошенная трава 1.8кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3800</price>
+		</offer>
+		<offer sku="4603739311032">
+			<model>Murkel силикагель крупный 4л. Яблоко 1.8кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>3800</price>
+		</offer>
+		<offer sku="4630001800734">
+			<model>Силикагелевый наполнитель Си Си Кэт 3,8л</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5000</price>
+		</offer>
+		<offer sku="4607109232415">
+			<model>CATLITTER наполн. 5л (древесные гранулы 8-10мм)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="2000926104040">
+			<model>CATLITTER наполн.20кг (древесные гранулы 8-10мм)</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4630001800321">
+			<model>No Name Древесный заполнитель 25л</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>4200</price>
+		</offer>
+		<offer sku="4630001800826">
+			<model>Си Си Кэт - наполнитель (древесный) 8 л</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1395</price>
+		</offer>
+		<offer sku="4627115071709">
+			<model>CATLITTER carbon MAXI 5л комкующийся</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1850</price>
+		</offer>
+		<offer sku="4627115070634">
+			<model>CATLITTER наполн. 20кг комкующийся</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6700</price>
+		</offer>
+		<offer sku="4607109232422">
+			<model>CATLITTER наполн. 5л комкующийся фр-ия 1,4-2,4мм</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>1800</price>
+		</offer>
+		<offer sku="745178990417">
+			<model>MurZon Бентонит 5л. Алое вера 4кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2200</price>
+		</offer>
+		<offer sku="745178990400">
+			<model>MurZon Бентонит 5л. Лаванда 4кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2200</price>
+		</offer>
+		<offer sku="745178990394">
+			<model>MurZon Бентонит 5л. Яблоко 4кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2200</price>
+		</offer>
+		<offer sku="4603739311506">
+			<model>Murkel 10л. Бентонит Алое вера 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4603739311490">
+			<model>Murkel 10л. Бентонит Кофе 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4603739311445">
+			<model>Murkel 10л. Бентонит Лаванда 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4603739311469">
+			<model>Murkel 10л. Бентонит Нейтральный 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4603739311476">
+			<model>Murkel 10л. Бентонит Роза 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4603739311520">
+			<model>Murkel 10л. Бентонит Сакура 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4603739311452">
+			<model>Murkel 10л. Бентонит Уголь 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4603739311438">
+			<model>Murkel 10л. Бентонит Яблоко 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5200</price>
+		</offer>
+		<offer sku="4603739311209">
+			<model>Murkel 5л. Бентонит Алое вера 4кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4603739311216">
+			<model>Murkel 5л. Бентонит Клубника 4кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4603739311247">
+			<model>Murkel 5л. Бентонит Лаванда 4кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4603739311223">
+			<model>Murkel 5л. Бентонит Лимон 4кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4603739311230">
+			<model>Murkel 5л. Бентонит Нейтральный 4кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4603739311193">
+			<model>Murkel 5л. Бентонит Роза 4кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4603739311254">
+			<model>Murkel 5л. Бентонит Уголь 4кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4603739311186">
+			<model>Murkel 5л. Бентонит Яблоко 4кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2650</price>
+		</offer>
+		<offer sku="4603739311674">
+			<model>Murkel Элита 10л. бентонит Кофе 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5700</price>
+		</offer>
+		<offer sku="4603739311636">
+			<model>Murkel Элита 10л. бентонит Лаванда 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5700</price>
+		</offer>
+		<offer sku="4603739311629">
+			<model>Murkel Элита 10л. бентонит Роза 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5700</price>
+		</offer>
+		<offer sku="4603739311681">
+			<model>Murkel Элита 10л. бентонит Сакура 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5700</price>
+		</offer>
+		<offer sku="4603739311704">
+			<model>Murkel Элита 10л. бентонит Уголь 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5700</price>
+		</offer>
+		<offer sku="4603739311650">
+			<model>Murkel Элита 10л. бентонит Яблоко 8кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>5700</price>
+		</offer>
+		<offer sku="4603739311582">
+			<model>Murkel Элита 5л. бентонит Алое вера 4 кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4603739311780">
+			<model>Murkel Элита 5л. бентонит Клубника 4 кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4603739311568">
+			<model>Murkel Элита 5л. бентонит Лаванда 4 кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4603739311797">
+			<model>Murkel Элита 5л. бентонит Лимон 4 кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4603739311605">
+			<model>Murkel Элита 5л. бентонит Нейтральный 4 кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4603739311551">
+			<model>Murkel Элита 5л. бентонит Роза 4 кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4603739311698">
+			<model>Murkel Элита 5л. бентонит Уголь 4 кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4603739311599">
+			<model>Murkel Элита 5л. бентонит Яблоко 4 кг.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>2800</price>
+		</offer>
+		<offer sku="4630001800116">
+			<model>No name комкующийся наполнитель для кошачьих туалетов 15 кг</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6750</price>
+		</offer>
+		<offer sku="4627104430913">
+			<model>Petmil пеленки гелевые впитывающие одноразовые 60*40 уп.30шт</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>6000</price>
+		</offer>
+		<offer sku="5411388322519">
+			<model>Переноска для животных Savic Авиа бокс 2-мя дверцами, бело-серый, размер 38x55.5x34см.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>16000</price>
+		</offer>
+		<offer sku="5411388326036">
+			<model>Переноска для животных Savic Авиа бокс, серо-голубой, размер 49x33x30см.</model>
+			<brand/>
+			<availabilities>
+				<availability available="yes" storeId="PP1"/>
+				<availability available="yes" storeId="PP2"/>
+			</availabilities>
+			<price>13995</price>
+		</offer>
+	</offers>
+</kaspi_catalog>

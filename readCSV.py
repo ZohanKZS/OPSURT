@@ -1,6 +1,6 @@
 import csv
 from ftplib import FTP
-from config import HOST,PASS,USER
+# from config import HOST,PASS,USER
 
 def readCSVz(fn):
 
@@ -59,11 +59,11 @@ def readMethod2():
     # ss=['goodsid','naim','izm','ostatok','priceroz','sku','barcode']
     # print('|'+' | '.join(ss)+'|')
 
-def loadFileFromFTP():
+def loadFileFromFTP(h,u,p):
 
     PORT = 21
-    ftp = FTP(HOST)
-    ftp.login(USER, PASS)
+    ftp = FTP(h)
+    ftp.login(u, p)
 
 
     file_name = 'fromZOO.csv'
@@ -75,11 +75,11 @@ def loadFileFromFTP():
 
     return file_name
 
-def UPloadFileToFTP(fn):
+def UPloadFileToFTP(fn,hos,usr,pas):
 
     PORT = 21
-    ftp = FTP(HOST)
-    ftp.login(USER, PASS)
+    ftp = FTP(hos)
+    ftp.login(usr, pas)
 
     # ll=ftp.nlst()
 

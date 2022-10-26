@@ -1,10 +1,8 @@
 import xml.etree.ElementTree as ET
 import xml.dom.minidom as xmm
 
-from config import ID, COMP
 
-
-def addTitle():
+def addTitle(cmp,id):
     p = ET.Element('kaspi_catalog')
     p.set('date', 'string')
     p.set('xmlns', 'kaspiShopping')
@@ -12,10 +10,10 @@ def addTitle():
     p.set('xsi:schemaLocation', 'kaspiShopping http://kaspi.kz/kaspishopping.xsd')
 
     c = ET.SubElement(p, 'company')
-    c.text = COMP
+    c.text = cmp
 
     c = ET.SubElement(p, 'merchantid')
-    c.text = ID
+    c.text = id
 
     of = ET.SubElement(p, 'offers')
 
