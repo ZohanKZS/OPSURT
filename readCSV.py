@@ -75,7 +75,7 @@ def loadFileFromFTP(h,u,p):
 
     return file_name
 
-def UPloadFileToFTP(fn,hos,usr,pas):
+def UPloadFileToFTP(fn,hos,usr,pas,txtf):
 
     PORT = 21
     ftp = FTP(hos)
@@ -85,7 +85,8 @@ def UPloadFileToFTP(fn,hos,usr,pas):
 
     file_name = fn
     my_file = open(file_name, 'rb')
-    ftp.storbinary('STOR ' + 'exportZOO.xml', my_file)
+    #ftp.storbinary('STOR ' + 'exportZOO.xml', my_file)
+    ftp.storbinary('STOR ' + txtf, my_file)
 
     my_file.close()
     ftp.close()

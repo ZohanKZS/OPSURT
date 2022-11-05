@@ -1,33 +1,40 @@
 from createXML import addOfer, addTitle, ET, readXMLpretty
 from readCSV import loadFileFromFTP, readCSVz, UPloadFileToFTP
-import json
+import os
+import datetime
 
-def readJSON():
+VER = '1.0.3.12'
 
-    with open('settings.json') as f:
-        # templates = json.load(f)
-        file_content = f.read()
-        dat = json.loads(file_content)
 
-    # print(dat['host'])
-    return dat
+def readData():
+    with open('config.ini') as f:
+        dat = f.read()
+        dat = dat.replace('\n', '')
+        dat = dat.replace("'", '')
+        ls = dat.split(',')
 
-def createBat(v):
-    f=open('exefile.bat','w')
-    f.write('pyinstaller --onefile main.py --icon "logo zohan.ico" --name "'+v+'"\n')
-    f.write('pause')
-    f.close()
+    dic = {}
+    for i in ls:
+        d = i.split(':')
+        dic[d[0].lower().replace('"','')] = d[1].replace(';',':')
+
+    # print(dic['host1'])
+
+    return dic
+
 
 def appStart():
     # fn = loadFileFromFTP(h,u,p)
-    dat=readJSON()
-    # fn="C:\Program Files (x86)\OPSURT\Server\export.csv"
-    fn=dat['path']
-    print('OPSURT to Kaspi KZS v1.0')
+    dat = readData()
+    #fn0="C:\\Program Files (x86)\\OPSURT\\Server\\export.csv"
+    s1='\\'
+    s2='\\'
+    fn0 = dat['path'].replace(s1,s2)
+    print('Start... OPSURT to Kaspi KZS v' + VER)
     print('Read CSV...')
-    lst = readCSVz(fn)
+    lst = readCSVz(fn0)
     print('Create XML...')
-    p, of = addTitle(dat['comp'],dat['id'])
+    p, of = addTitle(dat['comp'], dat['id'])
     ean = []
     k = 1
     for i in lst:
@@ -59,14 +66,28 @@ def appStart():
     fn1.write(tt2)
     fn1.close()
 
-    print('Upload XML to FTP...')
-    h=dat['host']
-    u=dat['user']
-    p=dat['pass']
-    UPloadFileToFTP(fn,h,u,p)
+    print('1 Upload XML to FTP...')
+    h = dat['host']
+    u = dat['user']
+    p = dat['pass']
+    UPloadFileToFTP(fn, h, u, p,'exportZOO.xml')# send price file
 
-if __name__=='__main__':
+    fnt = "info.txt"
+    #t = os.path.getmtime(dat['path'])
+    t = os.path.getmtime(fn0)
+    tfn=datetime.datetime.fromtimestamp(t)
+
+    fn1 = open(fnt, 'w', encoding='UTF-8')
+    fn1.write(str(tfn))
+    fn1.close()
+
+    print('2 Upload XML to FTP...')
+    UPloadFileToFTP(fnt, h, u, p,'info.txt')# send info file
+
+
+    print('Upload SUCCESSFUL!')
+
+
+if __name__ == '__main__':
     appStart()
-    # createBat('OPSURT to Kaspi KZS v1.0')
-    # readJSON()
-# конец кода
+    # print(readData())
