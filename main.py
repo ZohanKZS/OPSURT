@@ -3,7 +3,7 @@ from readCSV import loadFileFromFTP, readCSVz, UPloadFileToFTP
 import os
 import datetime
 
-VER = '1.0.3.12'
+VER = '1.0.3.15'
 
 
 def readData():

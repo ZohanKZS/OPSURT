@@ -40,7 +40,7 @@ def addOfer(of, art, name, dostup, cena):
     c.set('available', dostup)
     c.set('storeId', 'PP2')
     c = ET.SubElement(of1, 'price')
-    # cena=int(float(cena))
+    cena=int(float(cena))
     c.text = str(cena)
 
     # comment = ET.Comment('user comment')

@@ -1,7 +1,6 @@
 import PyInstaller.__main__
 import pyinstaller_versionfile
-
-VER='1.0.3.14'
+from main import VER
 
 def createBat():
     f=open('exefile.bat','w')
